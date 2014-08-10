@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Files from Data Specialitation
+Files from Data Specialization
